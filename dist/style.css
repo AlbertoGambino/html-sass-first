@@ -1,0 +1,6 @@
+body {
+  background-color: purple;
+}
+body h1, body p, body button {
+  color: blue;
+}

@@ -1,0 +1,11 @@
+// variabili
+
+$coloreBlu: blue;
+
+body{
+  background-color: purple;
+
+  h1, p, button{
+    color: $coloreBlu;
+  }
+}
